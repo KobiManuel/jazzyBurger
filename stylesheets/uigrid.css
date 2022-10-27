@@ -1,0 +1,75 @@
+.uigrid{
+    display: grid;
+    grid-column-gap: 30px;
+    align-content: center;
+    grid-template-columns: repeat(12,1fr);
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1100px;
+
+}
+
+.uigrid-1{
+    grid-column: span 1;
+}
+.uigrid-2{
+    grid-column: span 2;
+}
+.uigrid-3{
+    grid-column: span 3;
+}
+.uigrid-4{
+    grid-column: span 4;
+}
+.uigrid-5{
+    grid-column: span 5;
+}
+.uigrid-6{
+    grid-column: span 6;
+}
+.uigrid-7{
+    grid-column: span 7;
+}
+.uigrid-8{
+    grid-column: span 8;
+}
+.uigrid-9{
+    grid-column: span 9;
+}
+.uigrid-10{
+    grid-column: span 10;
+}
+.uigrid-11{
+    grid-column: span 11;
+}
+.uigrid-12{
+    grid-column: span 12;
+}
+
+.form-grid{
+    display: grid;
+    grid-column-gap: 5px;
+    align-content: center;
+    grid-template-columns: repeat(4,1fr);
+    justify-content: center;
+    margin: 0 auto;
+    width: 520px;
+
+}
+.form-grid-2{
+    grid-column: span 2;
+}
+.form-grid-4{
+    grid-column: span 4;
+}
+.floatuigrid{
+    display: grid;
+    grid-column-gap: 30px;
+    align-content: center;
+    grid-template-columns: repeat(12,1fr);
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 940px;
+
+}
+
