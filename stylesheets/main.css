@@ -42,6 +42,9 @@ body {
 .paragraph-space {
   margin: 10px auto;
 }
+.circle-type{
+    list-style-type: circle;
+}
 nav {
   margin-top: 20px;
 }
